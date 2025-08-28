@@ -24,7 +24,7 @@ It includes form validation, modern UI design, and smooth transitions between lo
 
 <img src="assets/img/brave_screenshot (1).png"> 
 
-<img src=".assets/img/brave_screenshot (2).png"> 
+<img src="assets/img/brave_screenshot (2).png"> 
 
 <img src="assets/img/brave_screenshot.png"> 
 
